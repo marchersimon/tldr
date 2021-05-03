@@ -8,15 +8,15 @@
 [![license][license-image]][license-url]
 
 [github-actions-url]: https://github.com/tldr-pages/tldr/actions
-[github-actions-image]: https://img.shields.io/github/workflow/status/tldr-pages/tldr/CI.svg
+[github-actions-image]: https://img.shields.io/github/workflow/status/tldr-pages/tldr/CI.svg?style=for-the-badge
 [gitter-url]: https://gitter.im/tldr-pages/tldr
-[gitter-image]: https://img.shields.io/badge/chat-on_gitter-deeppink
+[gitter-image]: https://img.shields.io/badge/chat-on_gitter-deeppink?style=for-the-badge
 [prs-merged-url]: https://github.com/tldr-pages/tldr/pulls?q=is:pr+is:merged
-[prs-merged-image]: https://img.shields.io/github/issues-pr-closed-raw/tldr-pages/tldr.svg?label=merged+PRs&color=green
+[prs-merged-image]: https://img.shields.io/github/issues-pr-closed-raw/tldr-pages/tldr.svg?label=merged+PRs&color=green?style=for-the-badge
 [contributors-url]: https://github.com/tldr-pages/tldr/graphs/contributors
-[contributors-image]: https://img.shields.io/github/contributors/tldr-pages/tldr.svg
+[contributors-image]: https://img.shields.io/github/contributors/tldr-pages/tldr.svg?style=for-the-badge
 [license-url]: https://github.com/tldr-pages/tldr/blob/main/LICENSE.md
-[license-image]: https://img.shields.io/badge/license-CC_BY_4.0-blue.svg
+[license-image]: https://img.shields.io/badge/license-CC_BY_4.0-blue.svg?style=for-the-badge
 </div>
 
 ## What is tldr-pages?
