@@ -12,7 +12,7 @@
 [gitter-url]: https://gitter.im/tldr-pages/tldr
 [gitter-image]: https://img.shields.io/badge/chat-on_gitter-deeppink?style=for-the-badge
 [prs-merged-url]: https://github.com/tldr-pages/tldr/pulls?q=is:pr+is:merged
-[prs-merged-image]: https://img.shields.io/github/issues-pr-closed-raw/tldr-pages/tldr.svg?label=merged+PRs&color=green?style=for-the-badge
+[prs-merged-image]: https://img.shields.io/github/issues-pr-closed-raw/tldr-pages/tldr.svg?label=merged+PRs&color=green&style=for-the-badge
 [contributors-url]: https://github.com/tldr-pages/tldr/graphs/contributors
 [contributors-image]: https://img.shields.io/github/contributors/tldr-pages/tldr.svg?style=for-the-badge
 [license-url]: https://github.com/tldr-pages/tldr/blob/main/LICENSE.md
